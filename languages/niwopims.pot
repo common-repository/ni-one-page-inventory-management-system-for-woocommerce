@@ -1,0 +1,362 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ni One Page Inventory Management System For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-22 16:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: ni-one-page-inventory-management-system-for-woocommerce.php:52
+#: includes/niwopims-core.php:92 includes/niwopims-core.php:93
+#: includes/niwopims-settings.php:20
+msgid "Settings"
+msgstr ""
+
+#: ni-one-page-inventory-management-system-for-woocommerce.php:53
+msgid "Support"
+msgstr ""
+
+#: ni-one-page-inventory-management-system-for-woocommerce.php:54
+msgid "Email"
+msgstr ""
+
+#: includes/niwopims-core.php:40
+msgid "Ni Inventory"
+msgstr ""
+
+#: includes/niwopims-core.php:41
+msgid "Ni  Inventory"
+msgstr ""
+
+#: includes/niwopims-core.php:51 includes/niwopims-core.php:52
+msgid "Dashboard"
+msgstr ""
+
+#: includes/niwopims-core.php:61 includes/niwopims-core.php:62
+#: includes/niwopims-stock-list.php:20
+msgid "Product List"
+msgstr ""
+
+#: includes/niwopims-core.php:73 includes/niwopims-core.php:74
+#: includes/niwopims-core.php:294 includes/niwopims-location.php:19
+#: includes/niwopims-location.php:304 includes/niwopims-purchase.php:303
+msgid "Location"
+msgstr ""
+
+#: includes/niwopims-core.php:82 includes/niwopims-core.php:83
+#: includes/niwopims-stock-center.php:14
+msgid "Stock Center"
+msgstr ""
+
+#: includes/niwopims-core.php:277
+msgid "Purchase Order"
+msgstr ""
+
+#: includes/niwopims-core.php:285 includes/niwopims-purchase.php:302
+msgid "Purchase Date"
+msgstr ""
+
+#: includes/niwopims-core.php:289
+msgid "Purchase No"
+msgstr ""
+
+#: includes/niwopims-core.php:305
+msgid "Supplier"
+msgstr ""
+
+#: includes/niwopims-core.php:315
+msgid "Status"
+msgstr ""
+
+#: includes/niwopims-core.php:328
+msgid "Enter Purchase Notes"
+msgstr ""
+
+#: includes/niwopims-core.php:342 includes/niwopims-core.php:378
+#: includes/niwopims-core.php:404
+msgid "Close"
+msgstr ""
+
+#: includes/niwopims-core.php:343 includes/niwopims-core.php:405
+#: includes/niwopims-location.php:114
+msgid "Save changes"
+msgstr ""
+
+#: includes/niwopims-core.php:361
+msgid "Purchase Product History"
+msgstr ""
+
+#: includes/niwopims-core.php:379
+msgid "Search"
+msgstr ""
+
+#: includes/niwopims-core.php:395
+msgid "Edit Product"
+msgstr ""
+
+#: includes/niwopims-dashboard.php:19
+msgid "LOW IN STOCK"
+msgstr ""
+
+#: includes/niwopims-dashboard.php:29
+msgid "OUT OF STOCK"
+msgstr ""
+
+#: includes/niwopims-dashboard.php:38
+msgid "MOST STOCKED"
+msgstr ""
+
+#: includes/niwopims-function.php:350
+msgctxt "Received"
+msgid "Received"
+msgstr ""
+
+#: includes/niwopims-location.php:25 includes/niwopims-stock-center.php:29
+#: includes/niwopims-stock-center.php:130
+msgid "Location Name"
+msgstr ""
+
+#: includes/niwopims-location.php:29
+msgid "Location Code"
+msgstr ""
+
+#: includes/niwopims-location.php:39
+msgid "Address Line"
+msgstr ""
+
+#: includes/niwopims-location.php:43
+msgid "Address Line 2"
+msgstr ""
+
+#: includes/niwopims-location.php:51 includes/niwopims-location.php:308
+msgid "City"
+msgstr ""
+
+#: includes/niwopims-location.php:55
+msgid "Zip Code"
+msgstr ""
+
+#: includes/niwopims-location.php:64
+msgid "State"
+msgstr ""
+
+#: includes/niwopims-location.php:68
+msgid "County"
+msgstr ""
+
+#: includes/niwopims-location.php:78 includes/niwopims-location.php:311
+msgid "First Name"
+msgstr ""
+
+#: includes/niwopims-location.php:82
+msgid "Last Name"
+msgstr ""
+
+#: includes/niwopims-location.php:90
+msgid "Email Adress"
+msgstr ""
+
+#: includes/niwopims-location.php:94 includes/niwopims-location.php:314
+msgid "Contact No"
+msgstr ""
+
+#: includes/niwopims-location.php:102 includes/niwopims-location.php:315
+msgid "Is Active"
+msgstr ""
+
+#: includes/niwopims-location.php:115 includes/niwopims-settings.php:59
+msgid "Reset"
+msgstr ""
+
+#: includes/niwopims-location.php:305
+msgid "Code"
+msgstr ""
+
+#: includes/niwopims-location.php:309
+msgid "Zip code"
+msgstr ""
+
+#: includes/niwopims-location.php:310
+msgid "Country"
+msgstr ""
+
+#: includes/niwopims-location.php:313
+msgid "Email Address"
+msgstr ""
+
+#: includes/niwopims-location.php:316 includes/niwopims-stock-list.php:328
+msgid "Edit"
+msgstr ""
+
+#: includes/niwopims-product.php:32
+msgid "Post Title"
+msgstr ""
+
+#: includes/niwopims-product.php:119 includes/niwopims-stock-center.php:25
+#: includes/niwopims-stock-center.php:129 includes/niwopims-stock-list.php:31
+#: includes/niwopims-stock-list.php:317
+msgid "SKU"
+msgstr ""
+
+#: includes/niwopims-product.php:120 includes/niwopims-stock-list.php:319
+msgid "Regular Price"
+msgstr ""
+
+#: includes/niwopims-product.php:121 includes/niwopims-stock-list.php:320
+msgid "Sale Price"
+msgstr ""
+
+#: includes/niwopims-product.php:123 includes/niwopims-stock-list.php:322
+msgid "Stock quantity"
+msgstr ""
+
+#: includes/niwopims-product.php:124 includes/niwopims-stock-list.php:323
+msgid "Manage stock?"
+msgstr ""
+
+#: includes/niwopims-product.php:125 includes/niwopims-stock-list.php:44
+#: includes/niwopims-stock-list.php:324
+msgid "Allow backorders?"
+msgstr ""
+
+#: includes/niwopims-product.php:126 includes/niwopims-stock-list.php:325
+msgid "Sold individually"
+msgstr ""
+
+#: includes/niwopims-purchase.php:251
+msgid "Start Date"
+msgstr ""
+
+#: includes/niwopims-purchase.php:255
+msgid "End Date"
+msgstr ""
+
+#: includes/niwopims-purchase.php:308
+msgid "Purchase Price"
+msgstr ""
+
+#: includes/niwopims-purchase.php:309 includes/niwopims-stock-center.php:131
+msgid "Purchase Quantity"
+msgstr ""
+
+#: includes/niwopims-purchase.php:310
+msgid "Line Total"
+msgstr ""
+
+#: includes/niwopims-purchase.php:311
+msgid "purchase no"
+msgstr ""
+
+#: includes/niwopims-purchase.php:312
+msgid "Delete"
+msgstr ""
+
+#: includes/niwopims-settings.php:28
+msgid "Select Supplier User Role"
+msgstr ""
+
+#: includes/niwopims-settings.php:30 includes/niwopims-settings.php:42
+#: includes/niwopims-stock-center.php:31 includes/niwopims-stock-list.php:37
+#: includes/niwopims-stock-list.php:46
+msgid "--Select One--"
+msgstr ""
+
+#: includes/niwopims-settings.php:39
+msgid "Online Sales Location"
+msgstr ""
+
+#: includes/niwopims-settings.php:49
+msgid "Add New Location"
+msgstr ""
+
+#: includes/niwopims-settings.php:58
+msgid "Save"
+msgstr ""
+
+#: includes/niwopims-settings.php:74
+msgid "Record Saved"
+msgstr ""
+
+#: includes/niwopims-stock-center.php:21 includes/niwopims-stock-list.php:27
+#: includes/niwopims-stock-list.php:316
+msgid "Product Name"
+msgstr ""
+
+#: includes/niwopims-stock-center.php:128
+msgid "Name"
+msgstr ""
+
+#: includes/niwopims-stock-center.php:132
+msgid "Sales Quantity"
+msgstr ""
+
+#: includes/niwopims-stock-center.php:133
+msgid "Balance Quantity"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:35 includes/niwopims-stock-list.php:327
+msgid "Manage Stock"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:38
+msgid "Yes"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:39
+msgid "No"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:47
+msgid " Do not allow"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:48
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:49
+msgid "Allow"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:256
+msgid " No record found"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:315
+msgid "Select"
+msgstr ""
+
+#: includes/niwopims-stock-list.php:329
+msgid "View Purchase"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ni One Page Inventory Management System For WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Ni One Page Inventory Management System For WooCommerce provides the option "
+"to purchase and maintained the stock for different location"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ni-woocommerce-multi-currency-report/"
+msgstr ""
+
+#. Author of the plugin
+msgid "anzia"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://naziinfotech.com/"
+msgstr ""
